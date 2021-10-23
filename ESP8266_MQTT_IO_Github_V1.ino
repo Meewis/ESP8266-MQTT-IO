@@ -5,7 +5,7 @@
 // If you like my work, feel free to use it but it would be nice to donate me some bitcoins for a coffee ;) And if you have done that I won't hasitate to reply the email you have send me at github(@)meewis(.)net
 // Coffee donation @ BTC 1HnNLkWEhWw9d9wUohUzfTR68J7FGuGkUj
 
-// Licence: MIT
+// License: MIT
 
 // Board:
 /* Boards:
